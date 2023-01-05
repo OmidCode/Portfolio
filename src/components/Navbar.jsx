@@ -16,10 +16,10 @@ const Navbar = () => {
 
       {/* Menu */}
       <ul className="hidden md:flex">
-        <li>Accueil</li>
-        <li>À propos</li>
-        <li>Compétences</li>
-        <li>Projets</li>
+        <li>Home</li>
+        <li>About</li>
+        <li>Skills</li>
+        <li>Projects</li>
         <li>Contact</li>
       </ul>
 
@@ -30,10 +30,10 @@ const Navbar = () => {
 
       {/* Mobile menu */}
       <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
-        <li className="py-6 text-4xl">Accueil</li>
-        <li className="py-6 text-4xl">À propos</li>
-        <li className="py-6 text-4xl">Compétences</li>
-        <li className="py-6 text-4xl">Projets</li>
+        <li className="py-6 text-4xl">Home</li>
+        <li className="py-6 text-4xl">About</li>
+        <li className="py-6 text-4xl">Skills</li>
+        <li className="py-6 text-4xl">Projects</li>
         <li className="py-6 text-4xl">Contact</li>
       </ul>
 
@@ -57,7 +57,7 @@ const Navbar = () => {
           </li>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a className="flex justify-between items-center w-full text-gray-300" href="/">
-              CV <BsFillPersonLinesFill size={30} />
+              Resume <BsFillPersonLinesFill size={30} />
             </a>
           </li>
         </ul>
