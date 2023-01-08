@@ -15,7 +15,7 @@ function About() {
             <p>Hi, I'm Omid, nice to meet you. Please take a look around</p>
           </div>
           <div>
-            <p>I am passionate about building web application. I specialize in front-end using Javascript and React. </p>
+            <p>I am passionate about building web application. I specialize in front-end using Javascript and React. Beside of coding im passionate about...</p>
           </div>
         </div>
       </div>
