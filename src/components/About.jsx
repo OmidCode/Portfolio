@@ -12,14 +12,10 @@ function About() {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-16">
           <div className="sm:text-right text-4xl font-bold">
-            <p>Hi, I'm Omid, nice to meet you. Please take a look around</p>
+            <p>Hi, I'm Omid, Welcome to my portfolio. Please take a look around</p>
           </div>
           <div>
-            <p>
-              I am passionate about building web application. I specialize in front-end using Javascript and React. Beside of coding im passionate about... I am
-              passionate about building web application. I specialize in front-end using Javascript and React. Beside of coding im passionate about... I am
-              passionate about building web application. I specialize in front-end using Javascript and React. Beside of coding im passionate about...I am
-            </p>
+            <p>I am passionate about building web application. I specialize in front-end using Javascript with React. Beside of coding im passionate about</p>
           </div>
         </div>
       </div>
