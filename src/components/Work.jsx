@@ -1,6 +1,7 @@
 import React from 'react';
 import RestaurantIMG from '../assets/RestaurantIMG.jpg';
 import HotTakesImg from '../assets/HotTakesImg.jpg';
+import PanthereSEO from '../assets/PanthereSEO.jpg';
 
 const Work = () => {
   return (
@@ -39,7 +40,7 @@ const Work = () => {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">API for social network using NodeJS and MongoDB</span>
+              <span className="text-2xl font-bold text-white tracking-wider">API for social network with CRUD operations using NodeJS and MongoDB</span>
               <div className="pt-8 text-center">
                 <a href="https://github.com/OmidCode/Omid-Ohmyfood" target="_blank" rel="noopener noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
@@ -49,17 +50,17 @@ const Work = () => {
           </div>
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${RestaurantIMG})` }}
+            style={{ backgroundImage: `url(${PanthereSEO})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">Integragration using html/css</span>
+              <span className="text-2xl font-bold text-white tracking-wider">Fixing SEO issues by mainly using lighthouse, wave and W3C </span>
               <div className="pt-8 text-center">
-                <a href="https://omidcode.github.io/Omid-Ohmyfood/" target="_blank" rel="noopener noreferrer">
+                <a href="https://omidcode.github.io/Starting-website-2/" target="_blank" rel="noopener noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</button>
                 </a>
-                <a href="https://github.com/OmidCode/Omid-Ohmyfood" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/OmidCode/Starting-website-2" target="_blank" rel="noopener noreferrer">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</button>
                 </a>
               </div>
