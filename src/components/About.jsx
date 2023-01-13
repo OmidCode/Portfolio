@@ -1,4 +1,3 @@
-import { logDOM } from '@testing-library/react';
 import React from 'react';
 
 function About() {
@@ -12,12 +11,15 @@ function About() {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>Hi, my name is Omid, i'm 24 and i am a web developer junior based in Paris </p>
+            <p>Hi, my name is Omid, i'am a web developer junior based in Paris </p>
           </div>
           <div>
             <p>
-              my job is to solving digital problems and building responsive web applications or web sites. I try to improve myself everyday Beside my job i love
-              to socialise by meeting new peoples and improving my self with every aspect.
+              I am a junior front-end developer specialized in Javascript. With limited experience but a strong motivation, I strive to constantly improve my
+              skills and tackle the challenges that each project brings. I am passionate about creating modern and interactive websites, and I enjoy using the
+              latest technologies to create exceptional user experiences. I am also proficient in responsive and adaptive web development. My strong attention
+              to detail and ability to work in a team make me a valuable asset to any project. I am eager to continue learning and growing as a front-end
+              developer.
             </p>
           </div>
         </div>
