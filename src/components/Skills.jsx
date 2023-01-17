@@ -11,10 +11,10 @@ import JavaScript from '../assets/javascript.png';
 
 function Skills() {
   return (
-    <div name="skills" className="w-full h-screen bg-[#0a192f] text-gray-300">
+    <div name="skills" className="w-full h-screen text-gray-300 bg-[#0a192f]">
       {/*container*/}
-      <div className="max-w-[1000px] mx-auto px-4 flex flex-col justify-center w-full h-full">
-        <div>
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+        <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-[#33FFFC]">Skills</p>
           <p className="py-4">These are the technologies I've worked with</p>
         </div>
