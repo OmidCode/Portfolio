@@ -15,7 +15,7 @@ export const data = [
     name: 'API for social network with CRUD operations using NodeJS and MongoDB',
     image: HotTakesImg,
     github: 'https://github.com/OmidCode/Piiquante-P6',
-    live: '',
+    live: 'https://404/',
   },
   {
     id: 3,
