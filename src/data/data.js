@@ -15,13 +15,12 @@ export const data = [
     name: 'API for social network with CRUD operations using NodeJS and MongoDB',
     image: HotTakesImg,
     github: 'https://github.com/OmidCode/Piiquante-P6',
-    live: 'https://404/',
   },
   {
     id: 3,
     name: 'Fixing SEO',
     image: PanthereSEO,
     github: 'https://github.com/OmidCode/Starting-website-2',
-    live: 'https://omidcode.github.io/Starting-website-2/',
+    live: 'https://omidcode.github.io/LaPanthereAgence/',
   },
 ];
